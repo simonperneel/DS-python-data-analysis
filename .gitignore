@@ -92,3 +92,5 @@ ENV/
 .ropeproject
 
 notebooks/data/0284676-200613084148143.zip
+.idea/.name
+.idea/DS-python-data-analysis.iml
