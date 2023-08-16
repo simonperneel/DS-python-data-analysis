@@ -13,7 +13,7 @@ dependencies:
 - mplleaflet
 - ipympl
 - seaborn
-- plotnine
 - pyproj
 - requests
 - openpyxl
+- plotly
