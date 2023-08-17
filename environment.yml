@@ -16,4 +16,4 @@ dependencies:
 - pyproj
 - requests
 - openpyxl
-- plotly>5.3
+- plotly>=5.3
