@@ -1,4 +1,4 @@
-name: DS-python
+name: DS-python-2
 channels:
 - defaults
 - conda-forge
@@ -16,4 +16,4 @@ dependencies:
 - pyproj
 - requests
 - openpyxl
-- plotly
+- plotly>5.3
