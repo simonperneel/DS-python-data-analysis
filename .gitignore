@@ -94,3 +94,11 @@ notebooks/data/0284676-200613084148143.zip
 
 # Files we don't need for the workshop now
 depr/
+
+# macOS specific
+*.DS_Store
+
+# Slides from original workshop
+docs/slides.html
+docs/setup.md
+
