@@ -12,6 +12,7 @@ dependencies:
 - pyproj
 - requests
 - openpyxl
+- packaging
 - plotly>5.3
 - pip
 - pip:
